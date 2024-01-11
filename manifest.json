@@ -1,0 +1,11 @@
+{
+    "name": "IPL Extension",
+    "version": "1.0.0",
+    "description": "Extension for viewing livescores in IPL",
+    "manifest_version": 3,
+    "author": "Deepanshu Sharma",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "IPL Extension"
+    }
+}
